@@ -1,0 +1,5 @@
+# Ignore .history directory (often created by VS Code Local History extension)
+.history/
+
+# Ignore .lh directory
+.lh/
