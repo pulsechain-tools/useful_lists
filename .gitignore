@@ -3,3 +3,6 @@
 
 # Ignore .lh directory
 .lh/
+
+# Ignore commit_nd_push.sh
+commit_and_push.sh
