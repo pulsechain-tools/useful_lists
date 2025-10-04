@@ -7,3 +7,13 @@
 # Ignore commit_nd_push.sh
 commit_and_push.sh
 commit_and_push_with_symlinks.sh
+.python-version
+pyproject.toml
+README copy.md
+token-cache.json
+uv.lock
+.gitignore
+scan_lp_overflow-backup.py
+scan_lp_overflow.py
+logs/auto.log
+logs/auto.logs
