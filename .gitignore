@@ -6,3 +6,4 @@
 
 # Ignore commit_nd_push.sh
 commit_and_push.sh
+commit_and_push_with_symlinks.sh
