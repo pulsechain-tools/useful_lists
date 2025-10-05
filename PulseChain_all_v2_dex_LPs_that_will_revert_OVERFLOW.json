@@ -1,17 +1,5 @@
 [
   {
-    "address": "0x005c23da18ae9998f931EeaAA397079117EF0Abe",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x00E5Ca16215dfEDf12B6d09501Bf2a714888128a",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -3780,18 +3768,6 @@
     ]
   },
   {
-    "address": "0x9BB7EE3416b992af0eEDb2715944aE13A83db6E8",
-    "source": "pulsex_v1",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x9C427129Df6bf86b437bC00a4c927eeB078efeC2",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4304,18 +4280,6 @@
         "token": "0xca803da0dF03c7E0897ff09bC53369654be0e3E7",
         "name": "\u327e \u0710\u072a\u0721\u0723 \u327e",
         "symbol": "\u32e8"
-      }
-    ]
-  },
-  {
-    "address": "0xB1274dEC289Fa389A49fDe24Ced0a6d5eb66258B",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
       }
     ]
   },
