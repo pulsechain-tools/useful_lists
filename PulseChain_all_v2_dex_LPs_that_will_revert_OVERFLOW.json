@@ -1824,6 +1824,24 @@
     ]
   },
   {
+    "address": "0x48E505E8Bf366a3f3163aC564c2E8a9c9652012c",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
+        "name": "Dysnomia Federal Monat",
+        "symbol": "DFM \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0x921Bc9A18EaF7299Ae42c1cc416ef070b04EF81E",
+        "name": "\u327e \u072ce\u0717\u0710\u072ce\u072a \u327e",
+        "symbol": "TEHATER \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x490A32cA8d402CC3dAF388bfB95C1AeE1b154569",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -2174,6 +2192,24 @@
         "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
         "name": "LUSD Stablecoin",
         "symbol": "LUSD"
+      }
+    ]
+  },
+  {
+    "address": "0x57F9a84c95d347f384C8d633fa371e4b158DF4e4",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
+        "name": "Dysnomia Federal Monat",
+        "symbol": "DFM \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
+        "name": "Cheat On Teh Bar Exam",
+        "symbol": "BAR \u327e"
       }
     ]
   },
@@ -4730,6 +4766,24 @@
         "token": "0xEDc5625dDb5e87d9d6bAee6F69d4E34D45cbc943",
         "name": "ghana new cedi",
         "symbol": "cedi"
+      }
+    ]
+  },
+  {
+    "address": "0xc2e9d6aA8C73F998a402EAd3081146F8d4BdF87D",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
+        "name": "Dysnomia Federal Monat",
+        "symbol": "DFM \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xD33358F1B3130e2E9715C5992028D9de384544E8",
+        "name": "United States Presidential Campaign",
+        "symbol": "CAMPAIGN \u327e"
       }
     ]
   },
