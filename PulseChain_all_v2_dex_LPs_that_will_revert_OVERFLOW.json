@@ -3768,18 +3768,6 @@
     ]
   },
   {
-    "address": "0x9D92fD3107863071eCf23fCAbcdE54761a05bAcc",
-    "source": "9inch_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x9DB7F8CAA4156019F8eca0D2E65611cd1194bC4d",
     "source": "pulsex_v2",
     "overflow_tokens": [
