@@ -4722,18 +4722,6 @@
     ]
   },
   {
-    "address": "0xc25315FDc00f5eA07B7205b59A2420DAa408c7ac",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xca803da0dF03c7E0897ff09bC53369654be0e3E7",
-        "name": "\u327e \u0710\u072a\u0721\u0723 \u327e",
-        "symbol": "\u32e8"
-      }
-    ]
-  },
-  {
     "address": "0xc28dc6014D640967C3f0a89f612732edd0f434b4",
     "source": "pulsex_v2",
     "overflow_tokens": [
