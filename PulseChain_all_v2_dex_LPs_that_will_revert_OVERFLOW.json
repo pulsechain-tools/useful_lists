@@ -3222,18 +3222,6 @@
     ]
   },
   {
-    "address": "0x81f3427b1EFc58e844De8f62A2a2C77fb08172cC",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x82E74733Ff2208AF46d69d0a343b52c80d815D1a",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5450,18 +5438,6 @@
         "token": "0xc3E7ED1ea72a51BDC33817AAF29aa8000365A52C",
         "name": "One Nation",
         "symbol": "NATIONAL \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0xdf89f69301532181330D06d221389285DA3aAD27",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
       }
     ]
   },
