@@ -3024,18 +3024,6 @@
     ]
   },
   {
-    "address": "0x79Df4c1aa9E8fb8BBd9F00f7ab915D7Bc2da2065",
-    "source": "9mm_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x7a6b538637a1649152453796965B31f6665251C4",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4398,18 +4386,6 @@
     ]
   },
   {
-    "address": "0xB6CFC1b7177cce4ff129788550c5E9906C866ef9",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0xb707dc2b88ae517Eb467A5C377B492C89f684b4A",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5310,6 +5286,24 @@
     ]
   },
   {
+    "address": "0xDbB4Bf11b2A33D872f6d0DA767ED0dA47702e92C",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
+        "name": "Dysnomia Federal Monat",
+        "symbol": "DFM \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xf5f1E1B45524cf6919e7Ce3EdDB83569eC452aeA",
+        "name": "\u327e \u0712\u0713\u0715\u0717\u0728 \u327e",
+        "symbol": "\u072b"
+      }
+    ]
+  },
+  {
     "address": "0xDbE04C3b7CCa5B7a82F1E8f0Db2e39E0E9cEf6FA",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -6158,6 +6152,18 @@
         "token": "0xeBB9253FAa2A212022430c29fAa95Ff2349f09E1",
         "name": "Pass One",
         "symbol": "ACT \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xfB2049068924f4Be1255c6D136bBB7a79aFFcFb8",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
       }
     ]
   },
