@@ -576,18 +576,6 @@
     ]
   },
   {
-    "address": "0x195FfFD7085Cd94E3DdE90bb10EEe7D89E196F82",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x1a4E4F37ad3e38E192105DD714a761D42A9E455f",
     "source": "uniswap_v2",
     "overflow_tokens": [
@@ -2174,18 +2162,6 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0x592B4409a68f44D04c8AD30A2Fe37B30694dfc12",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xD33358F1B3130e2E9715C5992028D9de384544E8",
-        "name": "United States Presidential Campaign",
-        "symbol": "CAMPAIGN \u327e"
       }
     ]
   },
