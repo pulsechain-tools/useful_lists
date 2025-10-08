@@ -2442,18 +2442,6 @@
     ]
   },
   {
-    "address": "0x652fda007Af46dF974aF9db5f7bD0201fecA83AE",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x65367aD6dBdCCE15661eF1E85A302ac34b0D284f",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -3206,18 +3194,6 @@
         "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
         "name": "Teh Fdeeralist Scoiety",
         "symbol": "SCOIETY \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0x85f7279b6920F3A1B8Ee0a6FEB1d17753E2F62EB",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
       }
     ]
   },
