@@ -2544,6 +2544,18 @@
     ]
   },
   {
+    "address": "0x67C63a23e5bcc074B87d72237dc4118274aDCF64",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
+      }
+    ]
+  },
+  {
     "address": "0x688c782045f397EB21039d4A8cED285ebB59B6a6",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -3900,18 +3912,6 @@
     ]
   },
   {
-    "address": "0xa5853Da536bcc920f5F320a86FB977dAaD1500fD",
-    "source": "pulsex_v1",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
     "address": "0xA64289321f6dDcd1b0D2b950c2221292820A7796",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4230,30 +4230,6 @@
     ]
   },
   {
-    "address": "0xb2e50D46235766B5d3Ff0a888AEFaE1929D501DB",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
-    "address": "0xb3856C88E56dE28F4B140cd1b72A5AfeE712D648",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
     "address": "0xB463DDF7aFB6854b6aE46C7ad0ce52b21Cad8421",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4322,6 +4298,18 @@
         "token": "0x7Ba907a5d308024E2A2010ea60318b834c1D8E9E",
         "name": "\u327e OPIUM \u327e",
         "symbol": "\u0713\u0710\u071d\u0710\u0722\u0710\u0723"
+      }
+    ]
+  },
+  {
+    "address": "0xB6CFC1b7177cce4ff129788550c5E9906C866ef9",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
       }
     ]
   },
@@ -6080,6 +6068,18 @@
         "token": "0xeBB9253FAa2A212022430c29fAa95Ff2349f09E1",
         "name": "Pass One",
         "symbol": "ACT \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xfB2049068924f4Be1255c6D136bBB7a79aFFcFb8",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
       }
     ]
   },
