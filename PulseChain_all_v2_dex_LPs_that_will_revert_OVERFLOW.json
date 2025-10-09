@@ -4026,6 +4026,18 @@
     ]
   },
   {
+    "address": "0xab93698aA92ADf6bD2751a123Cd4E39D895BFF7f",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
+        "name": "Cheat On Teh Bar Exam",
+        "symbol": "BAR \u327e"
+      }
+    ]
+  },
+  {
     "address": "0xAC7364F5EaC973741548CBC70B4aCA6Ca776FDE6",
     "source": "uniswap_v2",
     "overflow_tokens": [
@@ -4130,18 +4142,6 @@
         "token": "0x1c27Fd7Ab4FAA8141119484E00D2455851639C2b",
         "name": "Social Security Administration",
         "symbol": "SSA \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0xB0B6CeE82b5a6f9E88c2dFf4BBB3E11C735e1ba5",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
       }
     ]
   },
