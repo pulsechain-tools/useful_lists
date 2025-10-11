@@ -1482,18 +1482,6 @@
     ]
   },
   {
-    "address": "0x3d2fFdCb3019966BF72c5c951602f956F6EE98B6",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
-        "name": "Dysnomia Federal Monat",
-        "symbol": "DFM \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x3dF9180098aB379BCf104E6C4b29A44D7C2B9e51",
     "source": "pulsex_v2",
     "overflow_tokens": [
