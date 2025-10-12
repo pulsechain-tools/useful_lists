@@ -5460,6 +5460,18 @@
     ]
   },
   {
+    "address": "0xE4C55c46eF690bCF427D86e085FC21584c8D7AAf",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
+        "name": "Motion To Dismiss",
+        "symbol": "DISMISSED \u327e"
+      }
+    ]
+  },
+  {
     "address": "0xe505a4776DFCf00687376e7227369647FBA0195B",
     "source": "uniswap_v2",
     "overflow_tokens": [
@@ -5774,6 +5786,18 @@
         "token": "0xC7145e1290B1d1221Aba5Ae48d4aCE17c6BE088F",
         "name": "Tellerz  \u327e",
         "symbol": "TLRz"
+      }
+    ]
+  },
+  {
+    "address": "0xf348F1D30F8E34Db9e3B0CAe555662511507a3E3",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
+        "name": "Motion To Dismiss",
+        "symbol": "DISMISSED \u327e"
       }
     ]
   },
