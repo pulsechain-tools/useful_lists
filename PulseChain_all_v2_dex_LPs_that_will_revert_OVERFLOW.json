@@ -1314,6 +1314,18 @@
     ]
   },
   {
+    "address": "0x3930B5d930c92C6DE4D71e900bF4235075C908BF",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x416dd8dA05D718F8272664cA2d62b79E5516e451",
+        "name": "Like Mario Drives Around Town",
+        "symbol": "ELECTRIC GO KART \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x395c082dc70437fFF621690870A247983EfA04C4",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -2058,6 +2070,18 @@
     ]
   },
   {
+    "address": "0x5322c57d8E56D43d956eB2979916FB049BceeE5F",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
+        "name": "JOB",
+        "symbol": "\ua3eb \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x5452549449d709404472b0d39A9F82b5398A47E5",
     "source": "uniswap_v2",
     "overflow_tokens": [
@@ -2462,6 +2486,18 @@
         "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
         "name": "Dysnomia Federal Monat",
         "symbol": "DFM \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0x65B009519aAAF99fa0bF9eF0AFfD731A73D3d194",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xACf1de8Efc9147A1AC270334EbF39d57F60fa960",
+        "name": "Parsimony Coin",
+        "symbol": "PARSIMONY \u327e"
       }
     ]
   },
@@ -4922,6 +4958,18 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xD0ab9a9C1a85370971F31A84303e91E7CF3998D3",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x1fbCb469a567DA8026ffD87Eb8f2F54CA6BF1F05",
+        "name": "The Only Money Printers Unlimited",
+        "symbol": "RONIN \u327e"
       }
     ]
   },
