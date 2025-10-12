@@ -4062,6 +4062,18 @@
     ]
   },
   {
+    "address": "0xACfE7BFeB919146683418dC0Ace69DDcFd7B8e0e",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x37DAbF1347B11840a4feD0f5d01d43DebD769340",
+        "name": "Emory Niguhz Taht Allowe2To File Demurer",
+        "symbol": "ARDz \u327e"
+      }
+    ]
+  },
+  {
     "address": "0xADF833529D7a03b027Dcb759188adA9983e407DD",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4728,6 +4740,18 @@
     ]
   },
   {
+    "address": "0xCAb7516a5db65CfeAE490023e3b2146eEE29B85D",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
+        "name": "Motion To Dismiss",
+        "symbol": "DISMISSED \u327e"
+      }
+    ]
+  },
+  {
     "address": "0xcAE3Ac137A212501206B7fEc7c29f73e28c099e5",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5000,6 +5024,18 @@
         "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
         "name": "LUSD Stablecoin",
         "symbol": "LUSD"
+      }
+    ]
+  },
+  {
+    "address": "0xd460b170b664F3F6E9A809dbFD9597e8b3BF55C3",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x37DAbF1347B11840a4feD0f5d01d43DebD769340",
+        "name": "Emory Niguhz Taht Allowe2To File Demurer",
+        "symbol": "ARDz \u327e"
       }
     ]
   },
