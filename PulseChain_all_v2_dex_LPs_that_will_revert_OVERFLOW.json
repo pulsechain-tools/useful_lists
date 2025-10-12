@@ -768,18 +768,6 @@
     ]
   },
   {
-    "address": "0x219385fA1788a5d5635CBF29076153F87BFD2Eb5",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
-        "name": "Motion To Dismiss",
-        "symbol": "DISMISSED \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x21A8d3D89b258031BD47930d0D2FbF505055d5FC",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -1868,18 +1856,6 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0x4b0CBDa05CeE2ec84AC8A8570B2210aB2C50005d",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
-        "name": "Motion To Dismiss",
-        "symbol": "DISMISSED \u327e"
       }
     ]
   },
@@ -4062,18 +4038,6 @@
     ]
   },
   {
-    "address": "0xACfE7BFeB919146683418dC0Ace69DDcFd7B8e0e",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x37DAbF1347B11840a4feD0f5d01d43DebD769340",
-        "name": "Emory Niguhz Taht Allowe2To File Demurer",
-        "symbol": "ARDz \u327e"
-      }
-    ]
-  },
-  {
     "address": "0xADF833529D7a03b027Dcb759188adA9983e407DD",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5468,18 +5432,6 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0xE4C55c46eF690bCF427D86e085FC21584c8D7AAf",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
-        "name": "Motion To Dismiss",
-        "symbol": "DISMISSED \u327e"
       }
     ]
   },
