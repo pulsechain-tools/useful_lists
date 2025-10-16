@@ -1068,18 +1068,6 @@
     ]
   },
   {
-    "address": "0x2d2893eea2d42701A6E61F42c2D3A7784C29c8d0",
-    "source": "9inch_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x2E1A813f9DeBD4f3ef1cCe83fA16c2FDCB782e77",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4346,18 +4334,6 @@
         "token": "0x7Ba907a5d308024E2A2010ea60318b834c1D8E9E",
         "name": "\u327e OPIUM \u327e",
         "symbol": "\u0713\u0710\u071d\u0710\u0722\u0710\u0723"
-      }
-    ]
-  },
-  {
-    "address": "0xB6CFC1b7177cce4ff129788550c5E9906C866ef9",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
       }
     ]
   },
