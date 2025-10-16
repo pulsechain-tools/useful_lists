@@ -23,3 +23,4 @@ scan_lp_overflow-test.py
 test_LPs_that_will_revert_OVERFLOW.json
 test_tokens_in_v2_LPs_that_will_revert_OVERFLOW.json
 scan_lp_overflow-test2.py
+Pulsechain_tokens_not_paired_with_WPLS.py
