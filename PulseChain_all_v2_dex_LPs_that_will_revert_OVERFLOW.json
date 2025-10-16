@@ -1506,6 +1506,18 @@
     ]
   },
   {
+    "address": "0x3D76459D2620fDC8334c207f4132bE9E8EdF0aDC",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x1a288370726711a663016Ced74E4fd3068b51651",
+        "name": "Disease X",
+        "symbol": "DieX"
+      }
+    ]
+  },
+  {
     "address": "0x3dF9180098aB379BCf104E6C4b29A44D7C2B9e51",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4334,6 +4346,18 @@
         "token": "0x7Ba907a5d308024E2A2010ea60318b834c1D8E9E",
         "name": "\u327e OPIUM \u327e",
         "symbol": "\u0713\u0710\u071d\u0710\u0722\u0710\u0723"
+      }
+    ]
+  },
+  {
+    "address": "0xB6CFC1b7177cce4ff129788550c5E9906C866ef9",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
       }
     ]
   },
