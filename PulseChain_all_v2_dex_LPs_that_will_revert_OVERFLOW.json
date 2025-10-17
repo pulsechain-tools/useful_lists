@@ -4302,18 +4302,6 @@
     ]
   },
   {
-    "address": "0xb67Ada184937C9a04Bc27385dE16c5Dd40397473",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xE37ACc54711562510FaFC45d8199Ee329ebBceDd",
-        "name": "The Parade Before The Interview",
-        "symbol": "PARADE \u327e"
-      }
-    ]
-  },
-  {
     "address": "0xB6a3ADB7390142222CcffbaF8125D8565d961966",
     "source": "pulsex_v2",
     "overflow_tokens": [
