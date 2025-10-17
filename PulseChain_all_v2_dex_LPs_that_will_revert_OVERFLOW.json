@@ -672,6 +672,18 @@
     ]
   },
   {
+    "address": "0x1d8Bd560489c36A840260EA6FE6f6eA93663cEf0",
+    "source": "pulsex_v1",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
+      }
+    ]
+  },
+  {
     "address": "0x1deb6d0Cb21cDdD52C49f292816171FAC43F58Da",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -3222,6 +3234,18 @@
     ]
   },
   {
+    "address": "0x81f3427b1EFc58e844De8f62A2a2C77fb08172cC",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
+      }
+    ]
+  },
+  {
     "address": "0x82E74733Ff2208AF46d69d0a343b52c80d815D1a",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4290,6 +4314,18 @@
     ]
   },
   {
+    "address": "0xb2e50D46235766B5d3Ff0a888AEFaE1929D501DB",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
+      }
+    ]
+  },
+  {
     "address": "0xB463DDF7aFB6854b6aE46C7ad0ce52b21Cad8421",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4784,6 +4820,18 @@
         "token": "0x7898335bD81b696f62bc239e0232d3f1BBC8F1c6",
         "name": "Oh Yes You Can",
         "symbol": "EMBASSY \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xca5B463C62cb2790370e0B283240a3d9b7d3bcbc",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
       }
     ]
   },
