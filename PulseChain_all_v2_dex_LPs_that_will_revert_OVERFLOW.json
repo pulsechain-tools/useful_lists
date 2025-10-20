@@ -378,6 +378,18 @@
     ]
   },
   {
+    "address": "0x1272aaa8fCb0Fc12aa0EEbec442b198fcc76F4E4",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xE37ACc54711562510FaFC45d8199Ee329ebBceDd",
+        "name": "The Parade Before The Interview",
+        "symbol": "PARADE \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x12cDF9B7048B1cCB59E031c7d7a2BE7F9Bb17D80",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -1064,6 +1076,18 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0x2d2893eea2d42701A6E61F42c2D3A7784C29c8d0",
+    "source": "9inch_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
       }
     ]
   },
