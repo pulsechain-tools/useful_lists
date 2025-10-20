@@ -5022,18 +5022,6 @@
     ]
   },
   {
-    "address": "0xD0E50682930450688B96f701A70B7Ef4222D3274",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xEDc5625dDb5e87d9d6bAee6F69d4E34D45cbc943",
-        "name": "ghana new cedi",
-        "symbol": "cedi"
-      }
-    ]
-  },
-  {
     "address": "0xD18b6944E7ecB1b9B0b0257be1cdCa7D618A8172",
     "source": "pulsex_v2",
     "overflow_tokens": [
