@@ -4134,6 +4134,18 @@
     ]
   },
   {
+    "address": "0xACfE7BFeB919146683418dC0Ace69DDcFd7B8e0e",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x37DAbF1347B11840a4feD0f5d01d43DebD769340",
+        "name": "Emory Niguhz Taht Allowe2To File Demurer",
+        "symbol": "ARDz \u327e"
+      }
+    ]
+  },
+  {
     "address": "0xADF833529D7a03b027Dcb759188adA9983e407DD",
     "source": "pulsex_v2",
     "overflow_tokens": [
