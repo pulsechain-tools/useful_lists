@@ -2322,6 +2322,18 @@
     ]
   },
   {
+    "address": "0x5CaaD65b9180744340038046C10c046950d04B19",
+    "source": "pulsex_v1",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD"
+      }
+    ]
+  },
+  {
     "address": "0x5d65e9a2118f64fc56C62827A5e092847bb27e58",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -3230,18 +3242,6 @@
         "token": "0x24934cB9ECd95a20618BCfF3B76F1D9599419310",
         "name": "\ud83e\uddf8PAPA BEAR \u327e",
         "symbol": "\ud83e\uddf8PAPA BEAR \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0x81f3427b1EFc58e844De8f62A2a2C77fb08172cC",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
       }
     ]
   },
