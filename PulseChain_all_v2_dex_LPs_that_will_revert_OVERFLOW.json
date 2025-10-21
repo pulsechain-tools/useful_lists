@@ -5274,6 +5274,18 @@
     ]
   },
   {
+    "address": "0xdad34b4F45525791d84aBf3C22C7DD631941cf66",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x1c27Fd7Ab4FAA8141119484E00D2455851639C2b",
+        "name": "Social Security Administration",
+        "symbol": "SSA \u327e"
+      }
+    ]
+  },
+  {
     "address": "0xDaE7C720d15C9442FE30ea56977beB25Ae46AE84",
     "source": "pulsex_v2",
     "overflow_tokens": [
