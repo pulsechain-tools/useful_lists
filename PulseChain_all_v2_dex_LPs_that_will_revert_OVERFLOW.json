@@ -3816,18 +3816,6 @@
     ]
   },
   {
-    "address": "0x9cffDeFf2A81351aD59027995Ebee58C4089e500",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x2401E09acE92C689570a802138D6213486407B24",
-        "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER",
-        "symbol": "\ud83c\udfad"
-      }
-    ]
-  },
-  {
     "address": "0x9DB7F8CAA4156019F8eca0D2E65611cd1194bC4d",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5282,6 +5270,18 @@
         "token": "0xc3E7ED1ea72a51BDC33817AAF29aa8000365A52C",
         "name": "One Nation",
         "symbol": "NATIONAL \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xdA968790F76789151C33F1378771485241D6a717",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
+        "name": "Dysnomia Federal Monat",
+        "symbol": "DFM \u327e"
       }
     ]
   },
