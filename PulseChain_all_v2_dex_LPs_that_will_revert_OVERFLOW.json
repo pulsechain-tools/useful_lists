@@ -3348,18 +3348,6 @@
     ]
   },
   {
-    "address": "0x8aA4871e6Aba19974869Bf635bF81f008185080E",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x538B1BA51458565e553264c7F00d6De3806Aa9D9",
-        "name": "REX",
-        "symbol": "REX"
-      }
-    ]
-  },
-  {
     "address": "0x8aC1243b7d566bFD5342a2Eec89618927a6Df67C",
     "source": "pulsex_v2",
     "overflow_tokens": [
