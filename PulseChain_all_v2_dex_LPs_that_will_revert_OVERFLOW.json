@@ -1080,18 +1080,6 @@
     ]
   },
   {
-    "address": "0x2d2893eea2d42701A6E61F42c2D3A7784C29c8d0",
-    "source": "9inch_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x2E1A813f9DeBD4f3ef1cCe83fA16c2FDCB782e77",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -1172,18 +1160,6 @@
         "token": "0xEDc5625dDb5e87d9d6bAee6F69d4E34D45cbc943",
         "name": "ghana new cedi",
         "symbol": "cedi"
-      }
-    ]
-  },
-  {
-    "address": "0x326Ae3A50DCba34069814811AE55cB66E850a160",
-    "source": "pulsex_v1",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
       }
     ]
   },
@@ -2312,18 +2288,6 @@
   {
     "address": "0x5c4593610c6ee326Be05DcD78E3961F4D8B173c3",
     "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
-    "address": "0x5CaaD65b9180744340038046C10c046950d04B19",
-    "source": "pulsex_v1",
     "overflow_tokens": [
       {
         "index": 1,
@@ -6188,18 +6152,6 @@
         "token": "0xeBB9253FAa2A212022430c29fAa95Ff2349f09E1",
         "name": "Pass One",
         "symbol": "ACT \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0xfB2049068924f4Be1255c6D136bBB7a79aFFcFb8",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
       }
     ]
   },
