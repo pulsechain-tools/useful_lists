@@ -4788,18 +4788,6 @@
     ]
   },
   {
-    "address": "0xCAb7516a5db65CfeAE490023e3b2146eEE29B85D",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
-        "name": "Motion To Dismiss",
-        "symbol": "DISMISSED \u327e"
-      }
-    ]
-  },
-  {
     "address": "0xcAE3Ac137A212501206B7fEc7c29f73e28c099e5",
     "source": "pulsex_v2",
     "overflow_tokens": [
