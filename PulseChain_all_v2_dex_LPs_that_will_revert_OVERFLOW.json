@@ -2070,18 +2070,6 @@
     ]
   },
   {
-    "address": "0x5322c57d8E56D43d956eB2979916FB049BceeE5F",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
-        "name": "JOB",
-        "symbol": "\ua3eb \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x5452549449d709404472b0d39A9F82b5398A47E5",
     "source": "uniswap_v2",
     "overflow_tokens": [
