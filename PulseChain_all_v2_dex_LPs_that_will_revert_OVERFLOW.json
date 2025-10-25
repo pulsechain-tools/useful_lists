@@ -3756,18 +3756,6 @@
     ]
   },
   {
-    "address": "0x9cffDeFf2A81351aD59027995Ebee58C4089e500",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x2401E09acE92C689570a802138D6213486407B24",
-        "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER",
-        "symbol": "\ud83c\udfad"
-      }
-    ]
-  },
-  {
     "address": "0x9DB7F8CAA4156019F8eca0D2E65611cd1194bC4d",
     "source": "pulsex_v2",
     "overflow_tokens": [
