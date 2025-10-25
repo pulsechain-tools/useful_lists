@@ -2580,18 +2580,6 @@
     ]
   },
   {
-    "address": "0x67C63a23e5bcc074B87d72237dc4118274aDCF64",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x688c782045f397EB21039d4A8cED285ebB59B6a6",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -3764,6 +3752,18 @@
         "token": "0xa121b732fB8C6f7Cb76f27BD1b65ba155FF0ec3d",
         "name": "Like Only You Can Count On",
         "symbol": "SAFETY \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0x9cffDeFf2A81351aD59027995Ebee58C4089e500",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x2401E09acE92C689570a802138D6213486407B24",
+        "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER",
+        "symbol": "\ud83c\udfad"
       }
     ]
   },
