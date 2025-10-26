@@ -198,18 +198,6 @@
     ]
   },
   {
-    "address": "0x0c9E79AcBc5471bFBA596c0c5E46307F67F8Ac78",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
-        "name": "Teh Fdeeralist Scoiety",
-        "symbol": "SCOIETY \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x0d43F3FC834F0be93856Ff587D4ae23Ed940aBE8",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -2054,18 +2042,6 @@
         "token": "0x1D8132804e2b8523FD4EF39eAA08Cd7063d63095",
         "name": "YOU ARE NOT IN YOUR $20s",
         "symbol": "Whoopi \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0x5322c57d8E56D43d956eB2979916FB049BceeE5F",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
-        "name": "JOB",
-        "symbol": "\ua3eb \u327e"
       }
     ]
   },
@@ -4538,18 +4514,6 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0xBEAFd025C8cE800977cb5bdCa46eb5e12a58F9B7",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0xC7145e1290B1d1221Aba5Ae48d4aCE17c6BE088F",
-        "name": "Tellerz  \u327e",
-        "symbol": "TLRz"
       }
     ]
   },
