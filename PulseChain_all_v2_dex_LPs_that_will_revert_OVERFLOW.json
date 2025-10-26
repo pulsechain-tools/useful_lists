@@ -960,18 +960,6 @@
     ]
   },
   {
-    "address": "0x29a7218e1f455dfA535356b71611af40Fd2964f9",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
-      }
-    ]
-  },
-  {
     "address": "0x29cA2AdD77c7c797B0222462a5E8af906Af5AA70",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -3056,18 +3044,6 @@
         "token": "0x51160F352ED148C89d48dfe6384Edd07aFA24E0E",
         "name": "Dysnomia Federal Monat",
         "symbol": "DFM \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0x7ce88124e8baCc52C9F6608167f7599B375A9524",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-        "name": "LUSD Stablecoin",
-        "symbol": "LUSD"
       }
     ]
   },
