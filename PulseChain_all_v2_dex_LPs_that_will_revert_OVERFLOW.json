@@ -198,6 +198,18 @@
     ]
   },
   {
+    "address": "0x0c9E79AcBc5471bFBA596c0c5E46307F67F8Ac78",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
+        "name": "Teh Fdeeralist Scoiety",
+        "symbol": "SCOIETY \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x0d43F3FC834F0be93856Ff587D4ae23Ed940aBE8",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -350,6 +362,18 @@
         "token": "0xe38f585F377e99A05E3e8D7a4d8fb03B1543d8Ba",
         "name": "Request For Comment",
         "symbol": "RFC \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0x10f2dD90Bb110886E9955A3d653568E5695DdDFB",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xf5f1E1B45524cf6919e7Ce3EdDB83569eC452aeA",
+        "name": "\u327e \u0712\u0713\u0715\u0717\u0728 \u327e",
+        "symbol": "\u072b"
       }
     ]
   },
@@ -600,6 +624,18 @@
     ]
   },
   {
+    "address": "0x1a6B58Da9042771B7F0b88C5801c1af036af992F",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xca803da0dF03c7E0897ff09bC53369654be0e3E7",
+        "name": "\u327e \u0710\u072a\u0721\u0723 \u327e",
+        "symbol": "\u32e8"
+      }
+    ]
+  },
+  {
     "address": "0x1AD026D700CF26604ec22dB2C663Ec72e861DE67",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -632,6 +668,18 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0x1c5Fa192978b670b20cdA7aE6D4E8713E9A6c2Ab",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x416dd8dA05D718F8272664cA2d62b79E5516e451",
+        "name": "Like Mario Drives Around Town",
+        "symbol": "ELECTRIC GO KART \u327e"
       }
     ]
   },
@@ -872,6 +920,18 @@
         "token": "0xa121b732fB8C6f7Cb76f27BD1b65ba155FF0ec3d",
         "name": "Like Only You Can Count On",
         "symbol": "SAFETY \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0x258cd1ad29D47B7aB436985F574e370C5842c915",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
+        "name": "Teh Fdeeralist Scoiety",
+        "symbol": "SCOIETY \u327e"
       }
     ]
   },
@@ -1178,6 +1238,18 @@
         "token": "0x84A96D423f5b5bCcb011D83C743a8E4a6014d407",
         "name": "Doge Musk",
         "symbol": "DMUSK"
+      }
+    ]
+  },
+  {
+    "address": "0x34Db91126C29b0C5dE99a6BDd2926ee36eAE1429",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xA7C5987F59FD322b8EC978E5989741daaFe6ADB8",
+        "name": "\u0391\u03b5\u03af\u10a3\u03b4\u03c9",
+        "symbol": "\u0391\u10a3\u03b4"
       }
     ]
   },
@@ -3312,6 +3384,18 @@
     ]
   },
   {
+    "address": "0x8c42b3FED58E83949269eE831625fA1b73c473E6",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x921Bc9A18EaF7299Ae42c1cc416ef070b04EF81E",
+        "name": "\u327e \u072ce\u0717\u0710\u072ce\u072a \u327e",
+        "symbol": "TEHATER \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x8d4A5C61866bC4AfC277F3fD056a8C84A4E7a931",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4554,6 +4638,18 @@
     ]
   },
   {
+    "address": "0xC103873925bf7e211Cf5b65d97842bb7B3bBBF9a",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
+        "name": "JOB",
+        "symbol": "\ua3eb \u327e"
+      }
+    ]
+  },
+  {
     "address": "0xc18C9060F7B62952527E907E8c714Bf5976C69A1",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5072,6 +5168,18 @@
         "token": "0xe38f585F377e99A05E3e8D7a4d8fb03B1543d8Ba",
         "name": "Request For Comment",
         "symbol": "RFC \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xd5bf4A8676759C878b149d1313Cc9585561D828b",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xD33358F1B3130e2E9715C5992028D9de384544E8",
+        "name": "United States Presidential Campaign",
+        "symbol": "CAMPAIGN \u327e"
       }
     ]
   },
@@ -6018,18 +6126,6 @@
     ]
   },
   {
-    "address": "0xfA1F3128E894a3b5016620c92a9493Fc74e0e84D",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
-        "name": "Cheat On Teh Bar Exam",
-        "symbol": "BAR \u327e"
-      }
-    ]
-  },
-  {
     "address": "0xFa7BfbEEe7EF4C3669d8E77F51Eb9F01B6A413f5",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -6050,6 +6146,18 @@
         "token": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
         "name": "LUSD Stablecoin",
         "symbol": "LUSD"
+      }
+    ]
+  },
+  {
+    "address": "0xfa8F2487AfD65E43E487dF54a09FE791333780d4",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xca803da0dF03c7E0897ff09bC53369654be0e3E7",
+        "name": "\u327e \u0710\u072a\u0721\u0723 \u327e",
+        "symbol": "\u32e8"
       }
     ]
   },
