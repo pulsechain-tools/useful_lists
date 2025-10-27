@@ -48,6 +48,24 @@
     ]
   },
   {
+    "address": "0x036FcB37C4027cBd7Ab311C500c0eD83Dc2bc974",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0xD33358F1B3130e2E9715C5992028D9de384544E8",
+        "name": "United States Presidential Campaign",
+        "symbol": "CAMPAIGN \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
+        "name": "Teh Fdeeralist Scoiety",
+        "symbol": "SCOIETY \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x041F8C38f86560c5eD0f8Ae3751d1DC282D4b8b7",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5028,6 +5046,24 @@
     ]
   },
   {
+    "address": "0xc7b74425Ef5313992965fFaFceA0a88e6AA83586",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0xD33358F1B3130e2E9715C5992028D9de384544E8",
+        "name": "United States Presidential Campaign",
+        "symbol": "CAMPAIGN \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xf5f1E1B45524cf6919e7Ce3EdDB83569eC452aeA",
+        "name": "\u327e \u0712\u0713\u0715\u0717\u0728 \u327e",
+        "symbol": "\u072b"
+      }
+    ]
+  },
+  {
     "address": "0xC940749a91d8050DA63Ef9817468a3463dF9164f",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5079,6 +5115,24 @@
     "address": "0xcAE3Ac137A212501206B7fEc7c29f73e28c099e5",
     "source": "pulsex_v2",
     "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
+        "name": "Teh Fdeeralist Scoiety",
+        "symbol": "SCOIETY \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xCafd79BCBC4761969962CFbDFdc76Da44A0b78a2",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x1c27Fd7Ab4FAA8141119484E00D2455851639C2b",
+        "name": "Social Security Administration",
+        "symbol": "SSA \u327e"
+      },
       {
         "index": 1,
         "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
@@ -5354,6 +5408,24 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xd3908f5D9E9D007814743C0C5d2Ce955eef61d18",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x1c27Fd7Ab4FAA8141119484E00D2455851639C2b",
+        "name": "Social Security Administration",
+        "symbol": "SSA \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xca803da0dF03c7E0897ff09bC53369654be0e3E7",
+        "name": "\u327e \u0710\u072a\u0721\u0723 \u327e",
+        "symbol": "\u32e8"
       }
     ]
   },
