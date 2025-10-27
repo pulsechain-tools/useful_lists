@@ -1332,6 +1332,24 @@
     ]
   },
   {
+    "address": "0x34AdD470639218c745BDD2C41408c874DBBc07Fb",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0xca803da0dF03c7E0897ff09bC53369654be0e3E7",
+        "name": "\u327e \u0710\u072a\u0721\u0723 \u327e",
+        "symbol": "\u32e8"
+      },
+      {
+        "index": 1,
+        "token": "0xf5f1E1B45524cf6919e7Ce3EdDB83569eC452aeA",
+        "name": "\u327e \u0712\u0713\u0715\u0717\u0728 \u327e",
+        "symbol": "\u072b"
+      }
+    ]
+  },
+  {
     "address": "0x34Db91126C29b0C5dE99a6BDd2926ee36eAE1429",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4950,18 +4968,6 @@
     ]
   },
   {
-    "address": "0xC103873925bf7e211Cf5b65d97842bb7B3bBBF9a",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
-        "name": "JOB",
-        "symbol": "\ua3eb \u327e"
-      }
-    ]
-  },
-  {
     "address": "0xc18C9060F7B62952527E907E8c714Bf5976C69A1",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -5768,6 +5774,24 @@
         "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
         "name": "Cheat On Teh Bar Exam",
         "symbol": "BAR \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xDBe7bA37fA74CC6Ad1Ce2e8B4ada41D105fcFb02",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
+        "name": "JOB",
+        "symbol": "\ua3eb \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0x921Bc9A18EaF7299Ae42c1cc416ef070b04EF81E",
+        "name": "\u327e \u072ce\u0717\u0710\u072ce\u072a \u327e",
+        "symbol": "TEHATER \u327e"
       }
     ]
   },
