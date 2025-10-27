@@ -996,18 +996,6 @@
     ]
   },
   {
-    "address": "0x258cd1ad29D47B7aB436985F574e370C5842c915",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 1,
-        "token": "0xDb4eBEAfb23eCA5275821aB0D87c7f6fa5514EA4",
-        "name": "Teh Fdeeralist Scoiety",
-        "symbol": "SCOIETY \u327e"
-      }
-    ]
-  },
-  {
     "address": "0x25980873A325Ae85C89200550Ac861fcB9E93d5C",
     "source": "pulsex_v2",
     "overflow_tokens": [
