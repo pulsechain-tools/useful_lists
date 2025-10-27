@@ -174,6 +174,24 @@
     ]
   },
   {
+    "address": "0x0a07b47c3815Ef7Cc946E694EA511b91973F32AF",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x37DAbF1347B11840a4feD0f5d01d43DebD769340",
+        "name": "Emory Niguhz Taht Allowe2To File Demurer",
+        "symbol": "ARDz \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0x8097e28c2f7B2ad018607461D0b9d95A83affFc2",
+        "name": "Motion To Dismiss",
+        "symbol": "DISMISSED \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x0abD65E9FfF3c28579fdA765a265508010c5CfE5",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -1962,6 +1980,24 @@
     ]
   },
   {
+    "address": "0x49fF35531f6c45C38CB631300aD37363ff0CCB25",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
+        "name": "JOB",
+        "symbol": "\ua3eb \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xD33358F1B3130e2E9715C5992028D9de384544E8",
+        "name": "United States Presidential Campaign",
+        "symbol": "CAMPAIGN \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x4a8E4ef21a0909F347e7A25DD38bB3d196bAe88B",
     "source": "pulsex_v1",
     "overflow_tokens": [
@@ -2177,6 +2213,24 @@
     "overflow_tokens": [
       {
         "index": 0,
+        "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
+        "name": "JOB",
+        "symbol": "\ua3eb \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0x53B735b12B4DF3Babf2C76072A65718e306153a5",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x1c27Fd7Ab4FAA8141119484E00D2455851639C2b",
+        "name": "Social Security Administration",
+        "symbol": "SSA \u327e"
+      },
+      {
+        "index": 1,
         "token": "0x6A8Ee78653c588530D31fa308F4b165F346BD9E0",
         "name": "JOB",
         "symbol": "\ua3eb \u327e"
@@ -6494,6 +6548,24 @@
         "token": "0xe38f585F377e99A05E3e8D7a4d8fb03B1543d8Ba",
         "name": "Request For Comment",
         "symbol": "RFC \u327e"
+      }
+    ]
+  },
+  {
+    "address": "0xFFFB0eAFd741a3e3B5985c283bDcEa175B1C9b70",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x1c27Fd7Ab4FAA8141119484E00D2455851639C2b",
+        "name": "Social Security Administration",
+        "symbol": "SSA \u327e"
+      },
+      {
+        "index": 1,
+        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
+        "name": "Cheat On Teh Bar Exam",
+        "symbol": "BAR \u327e"
       }
     ]
   }
