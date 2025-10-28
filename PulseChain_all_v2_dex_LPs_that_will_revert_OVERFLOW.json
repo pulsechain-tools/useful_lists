@@ -3534,6 +3534,18 @@
     ]
   },
   {
+    "address": "0x8aA4871e6Aba19974869Bf635bF81f008185080E",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 0,
+        "token": "0x538B1BA51458565e553264c7F00d6De3806Aa9D9",
+        "name": "REX",
+        "symbol": "REX"
+      }
+    ]
+  },
+  {
     "address": "0x8aC1243b7d566bFD5342a2Eec89618927a6Df67C",
     "source": "pulsex_v2",
     "overflow_tokens": [
@@ -4052,18 +4064,6 @@
         "token": "0xa121b732fB8C6f7Cb76f27BD1b65ba155FF0ec3d",
         "name": "Like Only You Can Count On",
         "symbol": "SAFETY \u327e"
-      }
-    ]
-  },
-  {
-    "address": "0x9cffDeFf2A81351aD59027995Ebee58C4089e500",
-    "source": "pulsex_v2",
-    "overflow_tokens": [
-      {
-        "index": 0,
-        "token": "0x2401E09acE92C689570a802138D6213486407B24",
-        "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER",
-        "symbol": "\ud83c\udfad"
       }
     ]
   },
