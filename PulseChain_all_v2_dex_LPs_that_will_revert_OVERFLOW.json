@@ -2154,6 +2154,18 @@
     ]
   },
   {
+    "address": "0x4F82e6CfC36A1BD902A393B90873dc60B5Fd1Dd3",
+    "source": "pulsex_v2",
+    "overflow_tokens": [
+      {
+        "index": 1,
+        "token": "0xaAE18Cd46C45d343BbA1eab46716B4D69d799734",
+        "name": "Cheat On Teh Bar Exam",
+        "symbol": "BAR \u327e"
+      }
+    ]
+  },
+  {
     "address": "0x510365Cccf5A09EbDC875a47A4f770f884161baE",
     "source": "pulsex_v2",
     "overflow_tokens": [
